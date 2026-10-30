@@ -14,6 +14,7 @@ The API provides endpoints to retrieve expense records, manage employee records,
 - MySQL — relational database
 - Uvicorn — ASGI server for running FastAPI
 
+```
 Expense-Data-Warehouse-API/
 │
 ├── Fastapi_crude.py              
@@ -26,7 +27,7 @@ Expense-Data-Warehouse-API/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
+```
 
 ## Database Models
 
